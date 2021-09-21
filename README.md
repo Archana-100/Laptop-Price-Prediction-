@@ -1,1 +1,1 @@
-# Laptop-Price-Prediction-
+# Price Prediction model for Laptop
